@@ -40,4 +40,19 @@ Credit card delinquency prediction is critical for financial institutions to pro
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
 
+---
+
+## Author – Praveen S
+
+This project is part of my academic and professional portfolio, showcasing my skills in data analysis, exploratory data analysis, machine learning classification, and financial risk assessment.
+
+The project focuses on analyzing financial indicators, processing transaction datasets, and building predictive models to mitigate credit defaults.
+
+If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+LinkedIn: https://www.linkedin.com/in/praveen-s-28b9b0259[cite: 1]
+
+Email: praveenshekar03@gmail.com[cite: 1]
+
+Thank you for your interest, and I look forward to connecting with you!
 
