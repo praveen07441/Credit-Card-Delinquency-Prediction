@@ -41,9 +41,3 @@ Credit card delinquency prediction is critical for financial institutions to pro
 └── requirements.txt      # Python dependencies
 
 
-Author
-Praveen S
-
-Entry-level Data Analyst[cite: 1]
-
-LinkedIn Profile: www.linkedin.com/in/praveen-s-28b9b0259
