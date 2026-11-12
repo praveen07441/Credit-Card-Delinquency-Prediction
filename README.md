@@ -39,3 +39,11 @@ Credit card delinquency prediction is critical for financial institutions to pro
 ├── src/                  # Source code for preprocessing and model training
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
+
+
+Author
+Praveen S
+
+Entry-level Data Analyst[cite: 1]
+
+LinkedIn Profile: www.linkedin.com/in/praveen-s-28b9b0259
